@@ -1,6 +1,5 @@
 ### Hi there 👋
 ### I'm Max Talwar
-### A student and software engineer
 
 <!--
 **mmt3/mmt3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on quantitative trading in the crypto markets. 
+I'm student and software engineer, and am currently working on quantitative trading in the crypto markets. 
 I'm learning C, and love coding in Python and Java. 
+
+My favorite libraries are tensorflow, requests, and turicreate. 

@@ -20,3 +20,5 @@ I'm student and software engineer, and am currently working on quantitative trad
 I'm learning C, and love coding in Python and Java. 
 
 My favorite libraries are tensorflow, requests, and turicreate. 
+
+Reach out to me if you want to collaborate on any projects!

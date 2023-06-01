@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 I'm student and software engineer, and am currently working on quantitative trading in the crypto markets. 
-I'm learning C, and love coding in Python, Solidity, Java, and Javascript. 
+I'm learning C, and love coding in Python, Solidity, and Java. 
 
-My favorite libraries are tensorflow, requests, and turicreate. 
+My favorite libraries are tensorflow, flask, and turicreate. 
 
 Reach out to me if you want to collaborate on any projects!

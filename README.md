@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm student and software engineer, and am currently working on quantitative trading in the crypto markets. 
+I'm student and software engineer, and am currently working on economic simulations in Python. 
 I'm learning C, and love coding in Python, Solidity, and Java. 
 
-My favorite libraries are tensorflow, flask, and turicreate. 
+My favorite libraries are matplotlib, flask, and turicreate. 
 
 Reach out to me if you want to collaborate on any projects!

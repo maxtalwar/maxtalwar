@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm student and software engineer, and am currently working on economic simulations in Python. 
-I'm learning C, and love coding in Python, Solidity, and Java. 
+I'm student and software engineer. 
+I'm learning C, and love coding in Python, Solidity, Typescript and Java. 
 
 My favorite libraries are matplotlib, flask, and turicreate. 
 
